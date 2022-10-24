@@ -1,2 +1,5 @@
-# typing
-A simple typing practice app
+# 一个网页打字练习工具
+
+网址：https://4d46.design/typing/
+
+围绕单字输入速度数据设计的打字练习工具，专注于核心功能而保持简洁。
